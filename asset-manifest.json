@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teoriamusic/static/css/main.4e1cd768.css",
+    "main.js": "/teoriamusic/static/js/main.028b488f.js",
+    "static/js/787.34cd5438.chunk.js": "/teoriamusic/static/js/787.34cd5438.chunk.js",
+    "index.html": "/teoriamusic/index.html",
+    "main.4e1cd768.css.map": "/teoriamusic/static/css/main.4e1cd768.css.map",
+    "main.028b488f.js.map": "/teoriamusic/static/js/main.028b488f.js.map",
+    "787.34cd5438.chunk.js.map": "/teoriamusic/static/js/787.34cd5438.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e1cd768.css",
+    "static/js/main.028b488f.js"
+  ]
+}
